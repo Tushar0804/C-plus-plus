@@ -1,0 +1,15 @@
+This is the Practical-01.
+In this Practical, all the compilation stages of a C++ Program is explained.
+
+--> Preprocessing : The preprocessor obeys commands that begin with # (known as directives) by removing comments, expanding macros, expanding included files.
+                    -E flag is used for this process, which generates a .i file.
+
+--> Compilation : The preprocessed code is translated to assembly instructions specific to the target processor architecture.
+                  -S flag is used for this process, which generates a .s file.
+                  
+--> Assembly : During this stage, an assembler is used to translate the assembly instructions to object code.
+               The output consists of actual instructions to be run by the target processor.
+               -c flag is used for this process, which generates a .o file.
+               
+--> Linking : This is the final step of compilation. The linker merges all the object code from multiple modules into a single one.
+              -o flag is used for this process, which generates a .exe or a.out file for execution of the program.
