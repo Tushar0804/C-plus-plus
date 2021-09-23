@@ -1,1 +1,2 @@
-
+This is the Practical-02.
+In this Practical, I have made a Efficient and Optimised C++ program to check whether the given number is a Prime Number or not.
