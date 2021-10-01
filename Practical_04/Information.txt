@@ -1,0 +1,2 @@
+Task 01:    Used two namespace first & second in the program each have a function with same name.
+
