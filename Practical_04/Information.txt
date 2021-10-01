@@ -1,2 +1,6 @@
 Task 01:    Used two namespace first & second in the program each have a function with same name.
 
+Task 02:    Used 'using' keyword for namespaces rather than SRO.
+            On execution, compiler found ambiguity in the program and produces an error.
+
+Task 03:    
