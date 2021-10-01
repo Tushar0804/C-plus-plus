@@ -1,0 +1,13 @@
+Task 01:    Used " #include<iostream.h> " library.
+            On preprocessing this file we faced a fatal error since this library is invalid and not available for the compiler.
+ 
+Task 02:    Here we have not included the " #include<iostream> " library.
+            On preprocessing this file we have not faced any error and the file preprocessed successfully.
+  
+Conclusion of Task 01 & Task 02:  Preprocessor unit check whether the included library's code is avaialble with the compiler or not.
+                                  If available it insert all in the code and finishes executing.
+  
+  
+Task 03:    Code written for taking a string as input but cin function only took the first character and after that data has been lost.  
+
+Task 04:    To overcome above issues, we tried to solve the problem by using getline() function which takes whole line as input.
