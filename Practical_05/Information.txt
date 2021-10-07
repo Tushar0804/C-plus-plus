@@ -1,4 +1,5 @@
-Task 01:    Initialised all primitive datatypes in c++ (char, int, short, long, float, double, long double, boolean)
+Task 01:    Initialised all primitive datatypes in c++ (char, int, short, long, float, double, long double, boolean).
             Assigned values to them and printed to the output screen.
             
-Task 02:    
+Task 02:    Used sizeof Operator on all the primitive data types and their variable.
+            Printed the size in bytes to the output screen.
