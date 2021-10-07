@@ -8,3 +8,7 @@ Task 02:  Input a string and checked whether the given string is palindrome or n
 Task 03:  Input a string and find the reverse of the string.
           1. Using Built-in function reverse().
           2. Using reverse_iterator and then traversing through the string.
+
+Task 04:  Input two strings and then compare for equality by traversing through the string.
+
+
