@@ -9,7 +9,7 @@ int main()
     cout << "Enter Second String : ";
     getline(cin, s2);
  
-	cout << "On comparing String 1 with String 2, we get : " << s1.compare(s2) << endl;
+    cout << "On comparing String 1 with String 2, we get : " << s1.compare(s2) << endl;
 
     return 0;
 }
