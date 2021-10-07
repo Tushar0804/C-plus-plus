@@ -1,0 +1,4 @@
+Task 01:    Initialised all primitive datatypes in c++ (char, int, short, long, float, double, long double, boolean)
+            Assigned values to them and printed to the output screen.
+            
+Task 02:    
