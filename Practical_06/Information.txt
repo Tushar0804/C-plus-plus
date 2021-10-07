@@ -1,0 +1,3 @@
+Task 01:  + operator overloaded { (int + int), (float + float), (int + float), (string + string) }
+          When used with string and int, an error occured stating " no match for operator+ ".
+          + Operator for string is used to concatenate strings only and will not work with other datatypes.
