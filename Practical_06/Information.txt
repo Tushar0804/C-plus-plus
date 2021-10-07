@@ -11,4 +11,6 @@ Task 03:  Input a string and find the reverse of the string.
 
 Task 04:  Input two strings and then compare for equality by traversing through the string.
 
+Task 05:  Input two strings and then Check the possible values string.compare() function will return with different inputs.
+
 
