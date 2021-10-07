@@ -2,6 +2,9 @@ Task 01:  + operator overloaded { (int + int), (float + float), (int + float), (
           When used with string and int, an error occured stating " no match for operator+ ".
           + Operator for string is used to concatenate strings only and will not work with other datatypes.
 
-Task 02:  Inputted a string and checked whether the given string is palindrome or not.
+Task 02:  Input a string and checked whether the given string is palindrome or not.
           Used reverse_iterator to reverse the string.
 
+Task 03:  Input a string and find the reverse of the string.
+          1. Using Built-in function reverse().
+          2. Using reverse_iterator and then traversing through the string.
