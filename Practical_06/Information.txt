@@ -13,4 +13,6 @@ Task 04:  Input two strings and then compare for equality by traversing through 
 
 Task 05:  Input two strings and then Check the possible values string.compare() function will return with different inputs.
 
-
+Task 06:  Check whether strings are mutable or immutable in c++.
+          Since strings in c++ are by default stored as a character array and hence data can be changed at a particular index.
+          This shows that strings are mutable in c++.
