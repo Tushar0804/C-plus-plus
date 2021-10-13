@@ -1,0 +1,7 @@
+Task 01:  In this task, we are printing the current year, month and day using switch statements.
+          Here the data is entered manually in the cpp program.
+
+Task 02:  This is the modification of Task 01. We have make use of ctime library functions to access current time.
+          'struct tm' is a Time structure containing a calendar date and time broken down into its components.
+
+Task 03:  
