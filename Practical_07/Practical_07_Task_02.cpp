@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int choice;
+    int choice;
     cout << "1.   To print current year." << endl;
     cout << "2.   To print current month." << endl;
     cout << "3.   To print current day." << endl;
@@ -18,16 +18,16 @@ int main()
  
     switch(choice)
     {
-    	case 1: cout << "Current year is " << t->tm_year + 1900 << endl;
-    			break;
+    	case 1:     cout << "Current year is " << t->tm_year + 1900 << endl;
+		    break;
     	
-    	case 2: cout << "Current month is " << month[t->tm_mon] << endl;
-    			break;
+    	case 2:     cout << "Current month is " << month[t->tm_mon] << endl;
+		    break;
 		
-		case 3:	cout << "Current day is " << day[t->tm_wday] << endl;
-				break;
+	case 3:	    cout << "Current day is " << day[t->tm_wday] << endl;
+		    break;
 		
-		default: cout << "Invalid Input !!!" << endl;
-	}        
+	default:    cout << "Invalid Input !!!" << endl;
+    }        
 	return 0;
 }
