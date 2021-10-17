@@ -18,4 +18,9 @@ Task 04:  convert [ 1 2 3          [ 1 1 1
                     7 8 9 ]          3 3 3 ]
           Version 01:  Printing the matrix using row loop directly.
           Version 02:  Printing arr[i][N-1]/3 at each place of the matrix directly.
-          Version 03:  Restoring the original matrix using arr[i][j] - (2*i+j) and then printing it. 
+          Version 03:  Restoring the original matrix using arr[i][j] - (2*i+j) and then printing it.
+
+Task 05:  Store these in an array[4][4] in given fashion and then print:        *
+                                                                                * *
+                                                                                * * *
+                                                                                * * * *
