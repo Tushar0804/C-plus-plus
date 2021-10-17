@@ -34,3 +34,9 @@ Task 07:  Store these in an array[4][4] in given fashion and then print:        
                                                                                     * *
 	                                                                          * * *
 	                                                                        * * * *
+
+
+Task 08:  Store these in an array[4][4] in given fashion and then print:        * * * *
+										* * *
+										* * 
+										*
