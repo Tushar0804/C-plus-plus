@@ -16,17 +16,17 @@ int main()
 	}
 	
 	int res = N % 2 == 0 ? N/2 - 1: N/2;    
-    for(int i = 0; i <= res; i++)
-    {
-        for(int j = 0; j < N; j++)
-        {    
-            if (i == N-1-i && j == N-1-j)
-                break;
-            int t = arr[i][j];
-            arr[i][j] = arr[N-1-i][N-1-j];
-            arr[N-1-i][N-1-j] = t;
-        }
-    }
+	for(int i = 0; i <= res; i++)
+	{
+	for(int j = 0; j < N; j++)
+	{    
+	    if (i == N-1-i && j == N-1-j)
+		break;
+	    int t = arr[i][j];
+	    arr[i][j] = arr[N-1-i][N-1-j];
+	    arr[N-1-i][N-1-j] = t;
+	}
+	}
 	
 	cout << "\nArray after reverse : " << endl;
 	for(int i = 0; i < N; i++)
