@@ -4,4 +4,10 @@ Task 01:  In this task, we are printing the current year, month and day using sw
 Task 02:  This is the modification of Task 01. We have make use of ctime library functions to access current time.
           'struct tm' is a Time structure containing a calendar date and time broken down into its components.
 
-Task 03:  
+Task 03:  convert [ 1 2 3          [ 9 8 7
+                    4 5 6    -->     6 5 4
+                    7 8 9 ]          3 2 1 ]
+          Version 01:  Printing the reverse of the matrix directly.
+          Version 02:  Printing 10 - arr[i][j] of the matrix directly.
+          Version 03:  Restoring the original matrix using 10 - arr[i][j] and then printing it.
+          Version 04:  Restoring the original matrix using reverse method and then printing it.
