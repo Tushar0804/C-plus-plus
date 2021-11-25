@@ -1,0 +1,47 @@
+Task 01:  Will the program through an error and if yes then why?
+          int *p = {10,20,20};
+          cout << *p;
+          p++;
+          cout << *p;
+
+Task 02:  Output of this program?
+          Version 1:   Issue?
+                       int arr[] = {10,20,30};
+                       cout << *arr;
+                       cout << arr;
+                       arr++;
+                       cout << *arr;
+          Version 2:   How to resolve above issue?
+                       int arr[] = {10,20,30};
+                       cout << *arr;
+                       cout << arr;
+                       cout << *(?);
+
+Task 03:  Output of this program?
+          Version 1:   Output?
+                       int a = 10;
+                       int *p;
+                       int **q;
+                       p = &a;
+                       q = &p;
+                       cout << *p;
+                       cout << **q;
+          Version 2:   Change the value of a using q pointer to pointer
+
+Task 04:  Find factorial of a number using function but not recursion
+
+Task 05:  Find factorial of a number using recursion
+
+Task 06:  Series Problem using recursion for n series
+          2, (2^2 + 2), (3^3 + 3), (4^4 + 4), (5^5 + 5), .......
+          Hint:
+            n * ((n-1)^(n-1) + (n-1))
+
+Task 07:  Perform Call by value, call by Address for swapping value of a and b:
+          int a = 10;
+          int b = 20;
+          
+          Version 1:  Swap(a,b); //call by Value [void swap(int a, int b){}]
+          Version 2:  Swap(a,b); //call by Value [void swap(int &a, int &b){}]
+          Version 3:  Swap(&a,&b); //call by Address
+          
