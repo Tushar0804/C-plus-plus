@@ -2,6 +2,10 @@ Task 01:  WAP in C++ to illustrate the role of Access Modifiers in inheritance.
           1.   Accessing base class elements in derived class.
           2.   Accessing base class elements through object.
           
+          In Version 1 & 2 class B inherits class A in public mode.
+          In Version 3 & 4 class B inherits class A in private mode.
+          In Version 5 & 6 class B inherits class A in protected mode.
+          
 Task 02:  Execution flow of Constructors and Destructors.
           Version 01:   WAP to illustrate calling and execution flow of constructors and destructors in Inheritance.
           Version 02:   Pass parameters to the base class through derived class constructor.
