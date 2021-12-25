@@ -1,1 +1,7 @@
-
+Task 01:  WAP in C++ to illustrate the role of Access Modifiers in inheritance.
+          Version 01:   Accessing base class elements in derived class.
+          Version 02:   Accessing base class elements through object.
+          
+Task 02:  Execution flow of Constructors and Destructors.
+          Version 01:   WAP to illustrate calling and execution flow of constructors and destructors in Inheritance.
+          Version 02:   Pass parameters to the base class through derived class constructor.
