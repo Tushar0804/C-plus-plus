@@ -1,3 +1,6 @@
 UNIT 3 INHERITANCE
 
-Task 01 : WAP in C++ to create a Parent and Child interaction using inheritance
+Task 01 : WAP in C++ to create a Parent and Child interaction using inheritance.
+          Version 01 :  Call the Parent class data members in Child class function without creating object of Parent class.
+          Version 02 :  Call the Parent class data members in main method by child class object.
+          
