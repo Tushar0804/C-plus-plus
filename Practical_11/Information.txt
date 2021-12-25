@@ -4,3 +4,12 @@ Task 01:  WAP in C++ to create a Parent and Child interaction using inheritance.
           Version 01:   Call the Parent class data members in Child class function without creating object of Parent class.
           Version 02:   Call the Parent class data members in main method by child class object.
           
+Task 02:  Create two classes named Mammals and MarineAnimals. Create another class named BlueWhale which inherits both the above classes.
+          Now, create a function in each of these classes which prints "I am Mammal", "I am Marine Animal", and "I belong to both the categories: Mammals as well as           Marine Animals" respectively.
+          Now create an object for each of the above classes and try calling:
+          1.   Function of Mammals by the object of Mammals
+          2.   Function of MarineAnimals by the object of MarineAnimals
+          3.   Function of BlueWhale by the object of BlueWhale
+          4.   Function of each of its parent by the object of BlueWhale
+          
+          
