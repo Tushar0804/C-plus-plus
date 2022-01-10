@@ -1,0 +1,9 @@
+Task 01:  WAP in C++ to create a genetic add function for given tasks:
+          1.  Perform add over two integers and return integer
+          2.  Perform add over one int and one float and return double
+
+Task 02:  WAP in C++ to perform these tasks:
+          version 01: Catch a Divide by zero exception in z = x/y using "throw runtime_error"
+          version 02: What will be the output of this program and why?
+          version 03: What will be the output of this program and why?
+          version 04: Rethrow and catch an exception by creating a separate user defined divide function for condition divide by zero.
