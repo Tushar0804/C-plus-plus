@@ -1,0 +1,15 @@
+Unit 05:
+
+Task 01:  WAP in C++ to read and write from and to a file using ifstream and ofstream.
+
+Task 02:  WAP in C++ to perform these tasks:
+          1.  Read from a file using fstream [char by char]
+          2.  Write into a file using fstream
+          3.  Append into a file using fstream
+          4.  Count total number of characters, words and lines in a file
+
+Task 03:  WAP in C++ for IO manipulators mentioned below:
+          version 01: IOS: hex, dec, skipws, noskipws
+          version 02: Istream: ws
+          version 03: Ostream: endl, ends, flush
+          version 04: Iomanip: setW, setPrecision
